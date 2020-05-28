@@ -1,0 +1,3 @@
+mixin BaseBloc {
+  void dispose();
+}
